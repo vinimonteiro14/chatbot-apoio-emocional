@@ -1,6 +1,6 @@
 # Abra: Chatbot de Apoio Emocional
 
-**Abra** é um chatbot desenvolvido em Python com o objetivo de fornecer apoio emocional e descontração aos usuários. Utilizando a tecnologia de inteligência artificial generativa do Google Gemini, o Abra é capaz de compreender as emoções expressas no texto do usuário e responder de maneira amigável, atenciosa e acolhedora.
+**Abra** é um chatbot desenvolvido em Python com o objetivo de fornecer apoio emocional e descontração aos usuários. Utilizando a tecnologia de inteligência artificial generativa do Google Gemini com ajuda da Imersão da Alura com o Google Gemini, o Abra é capaz de compreender as emoções expressas no texto do usuário e responder de maneira amigável, atenciosa e acolhedora.
 
 ---
 
