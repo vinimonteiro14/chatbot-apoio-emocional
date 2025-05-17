@@ -170,5 +170,4 @@ Contribuições são bem-vindas! Para colaborar:
 5. Abra um Pull Request.
 
 ---
-
-> Desenvolvido com ❤️ para promover bem-estar e suporte emocional.
+> Gostaria de expressar minha gratidão ao Google pela disponibilização da API Gemini, que foi fundamental para o desenvolvimento deste chatbot. Agradeço também à Alura pela imersão e o tempo que disponibilizaram para ensinar com tanto carinho. 
